@@ -12,7 +12,7 @@ namespace GradeBook
                 Console.WriteLine($"Hello {args[1]} !");
             }
             else {
-                Console.WriteLine("There is no Czesio here");
+                Console.WriteLine("There is no Name here");
             }
         }
     }
