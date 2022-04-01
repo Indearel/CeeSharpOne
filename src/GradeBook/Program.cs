@@ -9,17 +9,9 @@ namespace GradeBook
         {
             var book = new Book("Jussto`s Grade Book");
             book.AddGrade(23.1);
-
-            var grades = new List<double>() {34.1, 25.5, 14.7, 69.3};
-            grades.Add(47.2);
-
-            var result = 0.0;
-            foreach(var number in grades)
-            {
-                result += number;
-            }
-            result /= grades.Count;
-            Console.WriteLine($"Hello, the average grade value is {result:N2}");
+            book.AddGrade(79.9);
+            book.AddGrade(50.4);
+            book.ShowStatitcs();
         }
     }
 }

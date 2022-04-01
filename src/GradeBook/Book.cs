@@ -9,12 +9,31 @@ namespace GradeBook
             grades = new List<double>();
             this.name=name;
         }
+
         public void AddGrade(double grade)
         {
             grades.Add(grade);
         }
+        
+        public void ShowStatitcs()
+        {
+            var result = 0.0;
+            var highestGrade = double.MinValue;
+            var lowestGrade = double.MaxValue;
 
-       private List<double> grades;
-       private string name;
+            foreach(var number in grades)
+            {
+                lowestGrade = Math.Min(number, lowestGrade);
+                highestGrade = Math.Max(number, highestGrade);
+                result += number;
+            }
+            result /= grades.Count;
+            Console.WriteLine($"The lowest grade is {lowestGrade}");
+            Console.WriteLine($"The highest grade is {highestGrade}");
+            Console.WriteLine($"Hello, the average grade value is {result:N2}");
+        }
+
+        private List<double> grades;
+        private string name;
     }
 }
