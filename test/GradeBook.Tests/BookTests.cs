@@ -6,7 +6,7 @@ namespace GradeBook.Tests;
     public class BookTests
     {
         [Fact]
-        public void Test1()
+        public void BooCalculatesAnAVerageGrade()
         {
             // arrange
             var book = new Book("");
@@ -18,7 +18,7 @@ namespace GradeBook.Tests;
             var result = book.GetStatistics();
             
             // assert
-            Assert.Equal(45.7, result.Average, 1);
+            Assert.Equal(45.9, result.Average, 1);
             Assert.Equal(89.1, result.High, 1);
             Assert.Equal(5.3, result.Low, 1);
         }
