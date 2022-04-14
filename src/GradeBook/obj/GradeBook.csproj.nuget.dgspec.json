@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\Indigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Indigo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Indigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
