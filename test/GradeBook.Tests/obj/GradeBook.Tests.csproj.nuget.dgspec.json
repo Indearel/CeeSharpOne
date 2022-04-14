@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
+    "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\Indigo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Indigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
+    "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "projectName": "GradeBook.Tests",
-        "projectPath": "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectPath": "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "packagesPath": "C:\\Users\\Indigo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Indigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-                "projectPath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+              "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj"
               }
             }
           }

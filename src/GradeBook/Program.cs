@@ -17,6 +17,7 @@ namespace GradeBook
             Console.WriteLine($"The lowest grade is {stats.Low}");
             Console.WriteLine($"The highest grade is {stats.High}");
             Console.WriteLine($"Hello, the average grade value is {stats.Average}");
+            Console.WriteLine($"The letter grade is {stats.Letter}");
         }
     }
 }
