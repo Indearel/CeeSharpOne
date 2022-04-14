@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\Indigo\\gradebook\\src\\Gradebook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\Indigo\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\Indigo\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\Indigo\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\Indigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\Indigo\\gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Indigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
