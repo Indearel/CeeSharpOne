@@ -31,7 +31,6 @@ namespace GradeBook.Tests;
         private void GetBookSetName(Book book, string name)
         {
             book = new Book(name);
-            book.Name = name;
         }
 
         [Fact]
@@ -45,7 +44,7 @@ namespace GradeBook.Tests;
 
         private void SetName(Book book1, string name)
         {
-            book1.Name = name;
+            
         }
 
         [Fact]

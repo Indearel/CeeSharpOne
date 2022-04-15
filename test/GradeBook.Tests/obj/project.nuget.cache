@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jtnIlyUGxMlm3vTokTunTCUmpFDRSUwW1SJMknQZ2ME6W+/fTbPJ2leT69/DEg6hqoknJ1atOcnVi3GcK6U6Ug==",
+  "dgSpecHash": "NYbws/DHqYQyE6TZ4u9xkem4XSlniznJau1Bjk36t3bUfD37g78eOrIP+Ae4Nxs/a2PhzAQzpaYlZjsXCZEfSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+  "projectFilePath": "c:\\Users\\Indigo\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Indigo\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Indigo\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
