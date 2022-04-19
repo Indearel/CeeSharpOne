@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wr0ZdVTWilsacZCBFQ3Lm3fhPB04hWulfd9lZ/stzSpIcIZQHYqrEvfpHJGNko87PEbPaxLP+QgTqtRBvH0Dqg==",
+  "dgSpecHash": "tQMmJdVU2HDFT57pH/ZWe0t81I8v0Ne9aIcCCq28doD1D4uae2PwJ9lMCplblDUWnzdVmFhRV4MXOaPYYUbNvQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "projectFilePath": "C:\\Users\\Indigo\\gradebook\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

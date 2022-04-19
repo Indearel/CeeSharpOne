@@ -5,6 +5,32 @@ namespace GradeBook.Tests;
 
     public class TypeTests
     {
+        public delegate string WriteLogDelegate(string logMessage);
+        int count = 0;
+
+        [Fact]
+        public void WriteLogDelegateCanPointToMethod()
+        {
+            WriteLogDelegate log = ReturnMessage;
+
+            log += ReturnMessage;
+            log += IncrementCount;
+
+            var result = log("Moi !");
+            Assert.Equal(3, count);
+        }
+
+        string IncrementCount(string message)
+        {
+            count++;
+            return message.ToLower();
+        } 
+        string ReturnMessage(string message)
+        {
+            count++;
+            return message;
+        } 
+
         [Fact]
         public void CSharpcanPassByRef()
         {
@@ -44,7 +70,7 @@ namespace GradeBook.Tests;
 
         private void SetName(Book book1, string name)
         {
-            
+            book1.Name = name;
         }
 
         [Fact]
